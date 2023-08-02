@@ -1,0 +1,21 @@
+<Aside> para un sitio tiene una función en el diseño mobile: en los celus no va a estar
+
+un sitio debe tener tres colores: blanco, negro y un intermedio entre estos 
+color.adobe: paletas de colores copadas
+
+paletadecolores.com.ar genera paletas de colores para imagenes
+
+coolors.co
+
+por sitio, basta con una tipografía. 
+
+serif es apropiada para textos largos (la serifa es el decorado al final de cada letra). 
+sans serif para encabezados, titulos
+
+script solo para titulos y firmas o logos y marcas. Pero solo para algo en especial. 
+Moderna también
+Decorativa también
+
+m3.material.io patrones estandares de material design
+
+particle.js librería para el fondo		
